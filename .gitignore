@@ -1,0 +1,7 @@
+# Track only the flake, docs and default settings; game data stays out of git and the Nix store.
+*
+!.gitignore
+!README.md
+!flake.nix
+!flake.lock
+!RA2MO.ini
