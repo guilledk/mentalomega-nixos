@@ -18,6 +18,8 @@ with either.
 Tested on NixOS (nixos-unstable) with GE-Proton 11-3, cnc-ddraw 7.1.0, the i3
 window manager and a 4K monitor.
 
+![The Mental Omega client's skirmish lobby running on NixOS with i3, next to a neofetch summary](docs/screenshot.png)
+
 ## Get the repo
 
 The game files go into the cloned directory itself. Git ignores everything

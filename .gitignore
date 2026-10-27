@@ -5,3 +5,5 @@
 !flake.nix
 !flake.lock
 !RA2MO.ini
+!docs/
+!docs/screenshot.png
